@@ -123,9 +123,9 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- Live Demo Will Be Added Soon
 
-- [Video Description]()
+- Video Description Will Be Added Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
